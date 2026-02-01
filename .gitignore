@@ -1,0 +1,9 @@
+# Ignore Java compiled files
+*.class
+
+# Ignore IDE settings and system files
+.DS_Store
+.project
+.classpath
+.settings/
+bin/
